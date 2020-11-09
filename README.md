@@ -13,4 +13,4 @@ Run procr.py from the command line to display system information. Use the -l opt
 ### Requirements
 
 
-Procr requires Python version three or higher.
+Procr requires Python version 3 or higher.
